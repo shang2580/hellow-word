@@ -1,2 +1,8 @@
 # hellow-word
-frist time
+frist tim
+
+conslo.log("djwx")
+
+
+
+
